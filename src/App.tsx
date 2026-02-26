@@ -1,4 +1,3 @@
-import "./App.css";
 import { Badge, Card, Col, Container, ListGroup, Row } from "react-bootstrap";
 
 function App() {
